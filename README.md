@@ -8,4 +8,4 @@ Email para contato:
 <br>
 <br>
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IvansJr)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IvansJr)](https://github.com/IvanSJr/Treinando-Python)
