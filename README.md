@@ -8,4 +8,4 @@ Email para contato:
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvansJr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvansJr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
