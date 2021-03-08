@@ -2,7 +2,7 @@
 Nome: Ivan Santos de Jesus Júnior<br>
 Idade: 19<br>
 Email para contato: ivan.junior2706@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/ivansjjunior/<br><br> 
+[Linkedin](https://www.linkedin.com/in/ivansjjunior/)<br><br> 
 ### Skills: <br>
 Python<br>
 Jupiter Notebook<br>
