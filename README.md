@@ -3,7 +3,7 @@
 * Idade: 19
 * Email para contato: ivan.junior2706@gmail.com
 * [Linkedin](https://www.linkedin.com/in/ivansjjunior/)
-### Skills:
+## Skills:
 * Python
 * Jupiter Notebook
 * PHP
@@ -14,7 +14,4 @@
 * Bootstrap
 * Laravel
 
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=IvansJr&show_icons=true&theme=radical)<br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvansJr&hide=contribs,prs)<br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvansJr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=IvansJr&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvansJr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
