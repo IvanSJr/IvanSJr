@@ -1,15 +1,15 @@
-(&nbsp;)Sobre mim:<br>
+<tab>Sobre mim:<br>
 Nome: Ivan Santos de Jesus Júnior<br>
 Idade: 19<br>
 Email para contato: ivan.junior2706@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/ivansjjunior/ <br><br><br>
-(&nbsp;)Conhecimentos em: <br>
+<tab>Conhecimentos em: <br>
 Python<br>
 Jupiter Notebook<br>
 PHP<br>
 HTML<br>
 CSS<br>
-(&nbsp;)Frameworks:<br>
+<tab>Frameworks:<br>
 
 
 <br><br><br>
