@@ -2,6 +2,7 @@
 * Nome: Ivan Santos de Jesus Júnior
 * Idade: 19
 * Email para contato: [ivan.junior2706@gmail.com](mailto:ivan.junior2706@gmail.com)
+* `CURSANDO SISTEMAS DA INFORMAÇÂO 3/8`
 * `EVOLUIR SEMPRE`
 ## :crystal_ball: Skills:
 * Python
