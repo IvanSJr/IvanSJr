@@ -7,6 +7,7 @@
 ## :crystal_ball: Skills:
 * Python
 * Php
+* Java
 * Html
 * Css
 * Git
@@ -14,6 +15,7 @@
 * Django
 * Bootstrap
 * Laravel
+* Spring Boot
 
 <p align="center">
   
