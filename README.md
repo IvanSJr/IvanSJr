@@ -8,7 +8,7 @@
 * Python
 * Php
 * Java
-* Html
+* JavaScript
 * Css
 * Git
 ## Frameworks:
@@ -16,6 +16,7 @@
 * Bootstrap
 * Laravel
 * Spring Boot
+* VueJS
 
 <p align="center">
   
