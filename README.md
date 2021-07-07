@@ -22,7 +22,7 @@
     align="center"
     alt="Most used languages"
     style="margin-bottom: 10px;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivansjr&layout=compact&langs_count=6&theme=ayu-mirage"
+    src=""
   />
 </p>
 
