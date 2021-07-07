@@ -13,8 +13,6 @@
 
 ## Frameworks:
 * Django
-* Bootstrap
-* Laravel
 * Spring Boot
-* VueJS
+* VueJs
 
