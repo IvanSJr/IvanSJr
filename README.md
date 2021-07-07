@@ -1,6 +1,6 @@
 ## :bust_in_silhouette: Sobre mim:
-* Nome: Ivan Santos de Jesus Júnior
-* Idade: 20 
+* Ivan Santos de Jesus Júnior
+* 20 
 * Cursando Sistemas da Informação (4/8) <br><br>
   <a href="https://www.instagram.com/ecbnavi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ivan.junior2706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
