@@ -7,24 +7,9 @@
   <a href="https://www.linkedin.com/in/ivansjjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ## :crystal_ball: Skills:
-* Python
-* Java
-* JavaScript
-* Css
-* Git
 
-<p align="center">
-  <img align="center"
-      alt="Ivan Júnior Github stats"
-      style="margin-bottom: 10px;"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=ivansjr&theme=ayu-mirage&show_icons=true&count_private=true" />
-  <img
-    align="center"
-    alt="Most used languages"
-    style="margin-bottom: 10px;"
-    src=""
-  />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivansjr&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivansjr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Frameworks:
 * Django
