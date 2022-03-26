@@ -12,5 +12,5 @@
 
 
 ## 👩‍💻 Frameworks:
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" target="_blank"> <img src="https://img.shields.io/badge/angular-11?style=for-the-badge&logo=angular-11">
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" target="_blank"> <img src="https://img.shields.io/badge/angular-11?style=for-the-badge&logo=angular">
 
