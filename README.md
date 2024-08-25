@@ -1,6 +1,6 @@
 ## :bust_in_silhouette: Informações e Contato:
 * Ivan Júnior
-* Cursando Sistemas da Informação (6/8) <br><br>
+* Bacharel em Sistemas da Informação <br><br>
   <a href = "mailto:ivan.junior2706@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivansjjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5571991085709&text=Vim%20pelo%20git." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
